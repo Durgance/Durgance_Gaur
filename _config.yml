@@ -1,0 +1,16 @@
+title: Ajeya Krishna # your name (or website title) here
+logo: "/images/filename.png"
+description: >
+  Senior Undergraduate in Engineering Physics, IIT BHU.
+  <br>
+  Primarily interested in Data Analytics and Machine Learning. 
+  <br>
+  <a href="https://predator-1-ml.github.io/pdf/17173003_Ajeya_Krishna_Analytics.pdf">View My Resume</a>
+  <br>
+  <a href="https://www.linkedin.com/in/ajeya-krishna12/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://github.com/predator-1-ml">View My Github Profile</a>
+  
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
